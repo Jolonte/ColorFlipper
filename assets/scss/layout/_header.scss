@@ -1,0 +1,18 @@
+.header {
+    &__nav {
+        @include flex(auto, row, wrap);
+        background-color: $white;
+        min-height: 2rem;
+    }
+
+    &__li {
+        @include flex(auto, row, wrap);
+        align-items: center;
+        justify-content: center;
+        gap: 15rem;
+    }
+
+    &__ul--active {
+        color: $black4;
+    }
+}

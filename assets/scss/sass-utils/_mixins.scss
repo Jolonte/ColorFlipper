@@ -1,0 +1,11 @@
+@mixin flex($flex, $direction, $wrap) {
+    flex: $flex;
+    display: flex;
+    flex-flow: $direction $wrap;
+}
+
+@mixin padding($top, $right, $bottom, $left) {
+    padding: $top, $right, $bottom, $left;
+}
+
+// responsive:

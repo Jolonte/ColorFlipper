@@ -1,0 +1,18 @@
+button {
+    @include flex(auto, row, wrap);
+    min-width: 8rem;
+    max-height: 2rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.3rem;
+    border: none;
+    background-color: $white;
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    &:active {
+        background-color: $lavender;
+    }
+}
