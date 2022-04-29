@@ -8,6 +8,7 @@ const brand = document.querySelector('#brand');
 const radioSimple = document.querySelector('#simple');
 // event
 btn === null || btn === void 0 ? void 0 : btn.addEventListener(`click`, () => changeBackground());
+// function
 function changeBackground() {
     if (radioSimple.checked) {
         const rndNum = Math.floor(Math.random() * colorsSimple.length);

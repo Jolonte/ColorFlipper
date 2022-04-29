@@ -12,6 +12,7 @@ const radioSimple = document.querySelector('#simple');
 // event
 btn?.addEventListener(`click`, () => changeBackground());
 
+// function
 function changeBackground(): void {
     if ((radioSimple as HTMLInputElement).checked) {
         const rndNum: number = Math.floor(Math.random() * colorsSimple.length);

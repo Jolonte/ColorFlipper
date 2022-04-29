@@ -1,3 +1,7 @@
+![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/ColorFlipper)
+![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/ColorFlipper)
+![GitHub license](https://img.shields.io/github/license/Jolonte/ColorFlipper)
+
 # ColorFlipper
 
 A random background color changer. This is a good project to get you started working with the DOM.
