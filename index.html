@@ -11,17 +11,23 @@
 <body>
     <header>
         <nav class="header__nav">
-            <li class="header__li">
-                <ul class="header__ul header__ul--active">Color Flipper</ul>
-                <ul class="header__ul">Simple Hex</ul>
+            <li class="header__section">
+                <ul class="header__ul header__ul--logo">Color Flipper</ul>
             </li>
+            <form action="" class="header__section">
+                <label for="simple">Simple</label>
+                <input type="radio" value="simple" name="question" id="simple" checked="checked">
+
+                <label for="hex">Hex</label>
+                <input type="radio" value="hex" name="question" id="hex">
+            </form>
         </nav>
     </header>
     <main>
         <div class="main__bar">
-            <h1>Background Color: Red</h1>
+            <h1 id="brand">Background Color: Red</h1>
         </div>
-        <button><p>CLICK ME</p></button>
+        <button id="btn"><p>CLICK ME</p></button>
     </main>
 
     <script src="/assets/js/main.js"></script>

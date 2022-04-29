@@ -1,18 +1,33 @@
 .header {
     &__nav {
         @include flex(auto, row, wrap);
-        background-color: $white;
+        background-color: $rosewater;
         min-height: 2rem;
     }
 
-    &__li {
+    &__section {
         @include flex(auto, row, wrap);
         align-items: center;
         justify-content: center;
-        gap: 15rem;
+        gap: 1rem;
+
+        label {
+            color: $black0;
+            &:hover {
+                cursor: pointer;
+                color: $red;
+            }
+            &:active {
+                color: $green
+            }
+        }
     }
 
-    &__ul--active {
-        color: $black4;
+    &__ul--logo {
+        color: $blue;
     }
+}
+
+input[type="radio"] {
+	display: none;
 }
