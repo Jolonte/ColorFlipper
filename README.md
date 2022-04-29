@@ -20,8 +20,8 @@ By manipulating the DOM, you have infinite possibilities. You can create applica
 * array.length
 
 ## Credits:
-[40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners#how-to-create-a-color-flipper)
-[Favicon](https://www.flaticon.com/br/icone-gratis/ferramenta-para-colorir_2089075?term=color&page=1&position=3&page=1&position=3&related_id=2089075&origin=search)
+* [40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners#how-to-create-a-color-flipper)
+* [Favicon](https://www.flaticon.com/br/icone-gratis/ferramenta-para-colorir_2089075?term=color&page=1&position=3&page=1&position=3&related_id=2089075&origin=search)
 
 ## Deploy
 [Color Flipper](https://colorflipper-eta.vercel.app/)
