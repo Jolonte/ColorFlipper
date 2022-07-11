@@ -1,6 +1,10 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/ColorFlipper)
 ![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/ColorFlipper)
-![GitHub license](https://img.shields.io/github/license/Jolonte/ColorFlipper)
+![GitHub license](https://img.shields.io/github/license/Jolonte/ColorFlipper)!
+
+<p align="center">
+  <img height="400em" src="assets/to_readme/cover.png"
+</p>
 
 # ColorFlipper
 
